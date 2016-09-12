@@ -1,6 +1,6 @@
 # Movie_Website
 
-This program create/Update a website with my favorite movie's title, description, poster, and youtube link
+This program creates/Updates a website with my favorite movie's title, description, poster, and youtube link
 
 #### Python IDLE is recommended to run this program. 
 
