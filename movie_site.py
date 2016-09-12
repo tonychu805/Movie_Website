@@ -83,9 +83,11 @@ def remove_entry():
             movie_list.remove(movie)
             print "The movie has been deleted"
             break 
-    
+
+open_movie_database()
+
+'''    
 avatar.show_trailer()
-'''
 
 open_movie_database()
 
