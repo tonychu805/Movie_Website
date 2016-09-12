@@ -11,4 +11,4 @@ How to run:
 4. Open IDLE, a prompt called Python Shell will be opened
 5. Open the file movie_site.py and click run
 
-### Please download and save all the file into the same folder. This
+### Please download and save all the file into the same folder. 
